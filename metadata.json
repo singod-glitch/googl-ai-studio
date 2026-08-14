@@ -1,0 +1,6 @@
+{
+  "name": "실시간 주식 구글 트렌드",
+  "description": "미국 및 한국 주식 관련 실시간 구글 트렌드 검색량, 급상승 종목 분석, 연관 키워드, AI 시장 인사이트 및 국가별 종목 비교 트렌드 대시보드",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
